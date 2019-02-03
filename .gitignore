@@ -199,7 +199,7 @@ GitHub.sublime-settings
 .history
 
 .pryrc
-erd.pdf
+
 
 # Ignore the default SQLite database.
 /db/*.sqlite3
