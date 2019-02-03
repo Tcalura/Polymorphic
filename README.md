@@ -1,24 +1,26 @@
-# README
+#### Aplicação simples trabalhando com tabela polimórfica!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+----
+#### Versões
+* Ruby 2.5.1 
+* Rails 5.2.2
 
-Things you may want to cover:
+#### Executar a aplicação
 
-* Ruby version
+> Rodar no terminal dentro do projeto após o clone
 
-* System dependencies
+    $ bundle install 
+    $ rails db:create:all db:migrate db:seed
+    $ rails server
+> A aplicação ficará disponível em http://localhost:3000/ 
 
-* Configuration
+#### Possíveis Logins 
 
-* Database creation
+>email: pedro@email.com password: 12345678
 
-* Database initialization
+>email: jon@email.com password: 12345678
 
-* How to run the test suite
+####Agradecimento: 
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+>Projeto do OnebitCode: 
+[link](https://onebitcode.com/polimorfismo-no-ruby-on-rails-aprenda-em-10-minutos/)
