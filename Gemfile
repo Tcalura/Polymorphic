@@ -35,9 +35,12 @@ group :development, :test do
   gem 'capybara'
   # A library for generating fake data such as names, addresses, and phone numbers.
   gem 'faker'
+  
+  gem 'pry-rails'
 end
 
 group :development do
+  gem 'rails-erd'
   # Access an interactive console on exception pages or by calling 'console' anywhere in the code.
   gem 'web-console', '>= 3.3.0'
   gem 'listen', '>= 3.0.5', '< 3.2'
