@@ -20,7 +20,8 @@
 
 >email: jon@email.com password: 12345678
 
-####Agradecimento: 
+[DER](https://github.com/Tcalura/Polymorphic/blob/master/erd.pdf)
+#### Agradecimento: 
 
 >Projeto do OnebitCode: 
 [link](https://onebitcode.com/polimorfismo-no-ruby-on-rails-aprenda-em-10-minutos/)
