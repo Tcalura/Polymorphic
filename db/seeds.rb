@@ -1,6 +1,6 @@
-@pedro = User.create(email: 'pedro@email.com', name:'Pedro', password: '1234', password_confirmation: '1234') 
+@pedro = User.create(email: 'pedro@email.com', name:'Pedro', password: '12345678', password_confirmation: '12345678') 
 
-@jon = User.create(email: 'jon@email.com', name:'jon', password: '1234', password_confirmation: '1234') 
+@jon = User.create(email: 'jon@email.com', name:'jon', password: '12345678', password_confirmation: '12345678') 
 
 @post_movie = Post.create(user_id: @pedro.id, post: "Hoje assisti o filme A start is Born") 
 
